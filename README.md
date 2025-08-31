@@ -82,10 +82,10 @@ graph LR
     B --> C[Hidden Layer 2<br/>64 neurons<br/>ReLU]
     C --> D[Output Layer<br/>1 neuron<br/>Sigmoid]
     
-    style A fill:#e1f5fe
-    style B fill:#f3e5f5
-    style C fill:#f3e5f5
-    style D fill:#e8f5e8
+style A fill:#fafbfc
+style B fill:#f6f8fa
+style C fill:#fff5f5
+style D fill:#f0fff4
 ```
 
 </div>
